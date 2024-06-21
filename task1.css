@@ -1,0 +1,98 @@
+html{
+    background-color:orange;
+}
+h1{
+    text-align: center;
+    color:black;
+
+}
+h2{
+    color: rgba(16, 14, 8, 0.367);
+    text-align: center;
+}
+h3{
+    text-align:left;
+    margin-left: 100px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+
+}
+p2{
+    color: rgb(15, 15, 5);
+    font-weight: 500;
+    padding: 2px;
+    margin: 25px;
+    border: 5px;
+    border-color: aqua;
+    text-align: right;
+    border:dotted;
+    border-color: whitesmoke;
+    background-color:whitesmoke;
+
+
+
+}
+img{
+    border: 5px solid black;
+    padding: 5px;
+    margin-top: 50px;
+    margin-left: 70px;
+    border-color:black;
+}
+.Cd{
+    font-weight: 900;
+    text-align: left;
+    margin-top: 50px;
+}
+.Ab{
+margin-top: 50px;
+border: 5px solid rgb(133, 31, 31);
+}
+
+.iam1{
+    border-style: dotted;
+    margin-top: 50px;
+    border-color: whitesmoke;
+    border-radius: 10px 10px;
+    text-align: center;
+    margin-left: 1350px;
+    background-color: whitesmoke;
+    color: solid black;
+
+}
+.iam1:hover{
+    color: pink;
+}
+.iam2{
+    border-style: dotted;
+    margin-top: 25px;
+    border-color: whitesmoke;
+    border-radius: 10px 10px;
+    text-align: center;
+    margin-left: 1350px;
+    background-color: whitesmoke;
+
+}
+.iam3{
+    border-style: dotted;
+    margin-top: 25px;
+    border-color: whitesmoke;
+    border-radius: 10px 10px;
+    text-align: center;
+    margin-left: 1350px;
+    background-color: whitesmoke;
+}
+
+footer{
+    margin-top: 50px;
+    text-align: right;
+}
+.Cd{
+    background-image: url('https://blogs.studentlife.utoronto.ca/lifeatuoft/files/2016/11/rtr3er24.jpg' );
+    background-position: right top;
+    background-attachment: scroll;
+  }
+p1{
+    text-align: left;
+}
